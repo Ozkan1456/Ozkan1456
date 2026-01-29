@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there,I'm Özkan 
+
+I'm Özkan, a Electrical Electronics Engineering Student in Istanbul.
+
+I build simple things.
+
 
 <!--
 **Ozkan1456/Ozkan1456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
